@@ -27,7 +27,7 @@ https://invidious.perennialte.ch/watch?v=f60dheI4ARg
 5. Click 'Load unpacked' (top left)
 6. Navigate to root directory of this repo, click 'Select'
 7. The extension should now be working
-8. Go to the youtube home page or youtube search results page and invidious-linker will ad a link near the title of each video
+8. Go to the youtube home page or youtube search results page and invidious-linker will place a link near the title of each video
 
 
 
